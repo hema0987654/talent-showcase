@@ -46,7 +46,7 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
-.NOTES.md
+/NOTES.md
 
 # Runtime data
 pids
